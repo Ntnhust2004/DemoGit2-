@@ -1,0 +1,6 @@
+{
+    "idf.pythonInstallPath": "E:\\Espressif\\tools\\idf-python\\3.11.2\\python.exe",
+    "idf.espIdfPathWin": "E:/Espressif/frameworks/esp-idf-v5.5.1/",
+    "idf.toolsPathWin": "E:\\Espressif",
+    "C_Cpp.dimInactiveRegions": false
+}
