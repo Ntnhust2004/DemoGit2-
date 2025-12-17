@@ -85,7 +85,7 @@ static void configure_led(void)
 }
 
 #else
-#error "unsupported LED type"
+
 #endif
 
 void app_main(void)
